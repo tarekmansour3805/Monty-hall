@@ -1,0 +1,15 @@
+3 doors  
+1 prize
+2 fakes
+
+
+host opens one door: DUD
+
+
+
+there is 50% chance of getting a dud or the prize
+bay's rule: "be positive" prize
+
+P(A | B) = P(B | A) * P(A) / P(B)
+
+1=1*0.5/05
